@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
+# theme = "terminal"
 paginate = 5
 
 [params]
@@ -85,3 +85,5 @@ paginate = 5
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
+  [[module.imports]]
+  path = 'terminal'
