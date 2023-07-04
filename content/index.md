@@ -16,7 +16,7 @@ Jay crafts beauty, a stunning *sight*. 🎶
 
 ---
 
-# About us
+# The crew
 
 `Peter` - The product owner
 
