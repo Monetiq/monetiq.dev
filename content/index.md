@@ -4,20 +4,19 @@ title = "We are Monetiq."
 
 # Hi there
 
-```
-# We are Monetiq,
-we are geeks () {
-  We_code_and_build();
-  our_passion = speaks;
-}
+In the realm of tech, we **thrive**,
+Monetiq, where geeks **arrive**.
+Peter leads with a vision **bright**,
+Ben's data prowess takes **flight**.
+Beer and Heng build code with **might*,
+Jay crafts beauty, a stunning **sight**. 🎶
 
-# With Peter's brilliance
-and Ben's finesse () {
-  Beer's = innovation;
-  Heng's = success;
+---
 
-# Jay's creativity,
-together = we_strive();
-# Monetiq thrives,
-in_tech = "we thrive";
-```
+# About us
+
+`Peter` - The product owner
+`Ben` - The data specialist
+`Beer` - The software engineer
+`Heng` - The software engineer
+`Jay` - The UX/UI designer
