@@ -14,8 +14,6 @@ Beer and Heng build code with *might*,
 
 Jay crafts beauty, a stunning *sight*. 🎶
 
----
-
 # About us
 
 `Peter` - The product owner
@@ -27,8 +25,6 @@ Jay crafts beauty, a stunning *sight*. 🎶
 `Heng` - The software engineer
 
 `Jay` - The UX/UI designer
-
----
 
 # Contact us
 
