@@ -6,17 +6,18 @@ title = "We are Monetiq."
 
 ```
 # We are Monetiq,
-# we are geeks.
-# We code and build,
-# our passion speaks.
+we are geeks () {
+  We_code_and_build();
+  our_passion = speaks;
+}
 
 # With Peter's brilliance
-# and Ben's finesse,
-# Beer's innovation,
-# Heng's success,
+and Ben's finesse () {
+  Beer's = innovation;
+  Heng's = success;
 
 # Jay's creativity,
-# together we strive,
+together = we_strive();
 # Monetiq thrives,
-# in tech we thrive.
+in_tech = "we thrive";
 ```
