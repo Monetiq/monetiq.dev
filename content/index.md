@@ -2,8 +2,6 @@
 title = "We are Monetiq."
 +++
 
-# Hi there
-
 In the realm of tech, we *thrive*,
 
 Monetiq, where geeks *arrive*.
