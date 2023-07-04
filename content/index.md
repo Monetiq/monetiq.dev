@@ -16,7 +16,7 @@ Jay crafts beauty, a stunning *sight*. 🎶
 
 ---
 
-# The crew
+# The crew 🧑‍🤝‍🧑
 
 `Peter` - The product owner
 
@@ -32,4 +32,4 @@ Jay crafts beauty, a stunning *sight*. 🎶
 
 # Contact us
 
-Email : [contact@monetiq.dev](contact@monetiq.dev)
+📧 : [contact@monetiq.dev](contact@monetiq.dev)
