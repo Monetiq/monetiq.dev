@@ -4,17 +4,17 @@ title = "We are Monetiq."
 
 # Hi there
 
-In the realm of tech, we **thrive**,
+In the realm of tech, we *thrive*,
 
-Monetiq, where geeks **arrive**.
+Monetiq, where geeks *arrive*.
 
-Peter leads with a vision **bright**,
+Peter leads with a vision *bright*,
 
-Ben's data prowess takes **flight**.
+Ben's data prowess takes *flight*.
 
-Beer and Heng build code with **might*,
+Beer and Heng build code with *might*,
 
-Jay crafts beauty, a stunning **sight**. 🎶
+Jay crafts beauty, a stunning *sight*. 🎶
 
 ---
 
