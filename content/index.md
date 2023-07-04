@@ -32,4 +32,4 @@ Jay crafts beauty, a stunning *sight*. 🎶
 
 # Contact us
 
-Email : <a href="mailto:contact@monetiq.dev">contact@monetiq.dev</a>
+Email : [contact@monetiq.dev](contact@monetiq.dev)
