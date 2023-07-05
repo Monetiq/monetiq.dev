@@ -36,4 +36,9 @@ Jay crafts beauty, a stunning *sight*. 🎶
 
 ---
 
-**Monetiq Company Limited**
+```
+Monetiq Company Limited
+112/236 moo 8, Bang Keaw,
+Bang Phli, Samut Prakan, 10540
+Tax ID: 0115566011291
+```
