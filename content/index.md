@@ -4,8 +4,6 @@ title = "We are Monetiq."
 
 > Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
 > We are passionate individuals who have come together to pursue our side project alongside our full-time jobs.
->
-> 
 
 ---
 
@@ -36,9 +34,6 @@ At Monetiq, we offer a range of services to help you bring your vision to realit
 
 > Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
 
-.
-
-.
 
 ---
 
@@ -110,9 +105,6 @@ Allow us to introduce our talented crew:
 
 ---
 
-.
-
-.
 
 ---
 
