@@ -10,7 +10,7 @@ We are passionate individuals who have come together to pursue our side project 
 
 # Project road map
 
-## `12NY - The dating app`
+`12NY` - The dating app
 
 - 2023-06 - Designing 1st phase (Anonymous matching, gift, and, chat system)
 - 2023-08 - Testing 1st phase & Media publishing
