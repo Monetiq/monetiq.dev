@@ -43,7 +43,11 @@ In the realm of technology, we thrive and deliver excellence at Monetiq.
 
 Allow us to introduce our talented crew:
 
-<img src="https://media.licdn.com/dms/image/C5603AQHHmdd_yW6_pQ/profile-displayphoto-shrink_200_200/0/1592533687376?e=1694044800&v=beta&t=m7qBvBmh9Ggxu4P2JMIPVxqIkkcdghk6h1LuTvRv-ao" height="100px">
+{{<
+    image
+    src="https://media.licdn.com/dms/image/C5603AQHHmdd_yW6_pQ/profile-displayphoto-shrink_200_200/0/1592533687376?e=1694044800&v=beta&t=m7qBvBmh9Ggxu4P2JMIPVxqIkkcdghk6h1LuTvRv-ao"
+    height="100px"
+>}}
 
 [**`Pete`**](https://www.linkedin.com/in/chanvit-s-292642198/) - The Visionary
 
