@@ -63,13 +63,31 @@ As our product owner, Pete leads with a bright vision that propels us forward.
 
 With Ben's data prowess, we unlock insights and make data-driven decisions. 
 
+{{<
+    image
+    src="https://media.licdn.com/dms/image/C5603AQGuDglbRVA-cA/profile-displayphoto-shrink_200_200/0/1648205758878?e=1694044800&v=beta&t=OF-dxVey6wTmYrKi7OmeqAe562B7TZSj3eJGu55gHBc"
+    height="100px"
+>}}
+
 [**`Beer`**](https://www.linkedin.com/in/borrabeer/) - The Code Maestro
 
 Beer's coding skills are a force to be reckoned with, building robust solutions with might. 
 
+{{<
+    image
+    src="https://media.licdn.com/dms/image/C5603AQHt59sOuRLUsQ/profile-displayphoto-shrink_200_200/0/1625136514188?e=1694044800&v=beta&t=wYc15y0CLnbJEB4nDM8fkdDDoR6uOxaHijzxRhPMD18"
+    height="100px"
+>}}
+
 [**`Heng`**](https://www.linkedin.com/in/ramil-arthan-397349170/) - The Software Engineer
 
 Heng's expertise in software engineering brings our projects to life with precision.
+
+{{<
+    image
+    src="https://media.licdn.com/dms/image/D5603AQGax2KDQovK1A/profile-displayphoto-shrink_200_200/0/1686649480728?e=1694044800&v=beta&t=VlALcsUIV_27Yd23Cb5eVODra_7FyqS8BDetK7p2Dgo"
+    height="100px"
+>}}
 
 [**`Jay`**](https://www.linkedin.com/in/thanapon-matikanon/) - The UX/UI Designer
 
