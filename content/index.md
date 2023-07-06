@@ -4,9 +4,10 @@ title = "We are Monetiq."
 
 Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
 We are passionate individuals who have come together to pursue our side project alongside our full-time jobs.
+
+.
  
- 
- 
+. 
 ---
 
 # Project and road map
@@ -48,6 +49,8 @@ In the realm of technology, we thrive and deliver excellence at Monetiq.
 
 Allow us to introduce our talented crew:
 
+---
+
 {{<
     image
     src="https://media.licdn.com/dms/image/C5603AQHHmdd_yW6_pQ/profile-displayphoto-shrink_200_200/0/1592533687376?e=1694044800&v=beta&t=m7qBvBmh9Ggxu4P2JMIPVxqIkkcdghk6h1LuTvRv-ao"
@@ -55,7 +58,6 @@ Allow us to introduce our talented crew:
 >}}
 
 **[`Pete`](https://www.linkedin.com/in/chanvit-s-292642198/) - The Visionary**
----
 
 As our product owner, Pete leads with a bright vision that propels us forward.
 
@@ -69,8 +71,6 @@ As our product owner, Pete leads with a bright vision that propels us forward.
 
 **[`Ben`](https://www.linkedin.com/in/nopdanai-dejvorakul/) - The Data Specialist**
 
----
-
 With Ben's data prowess, we unlock insights and make data-driven decisions.
 
 ---
@@ -82,8 +82,6 @@ With Ben's data prowess, we unlock insights and make data-driven decisions.
 >}}
 
 **[`Beer`](https://www.linkedin.com/in/borrabeer/) - The Code Maestro**
-
----
 
 Beer's coding skills are a force to be reckoned with, building robust solutions with might.
 
@@ -97,8 +95,6 @@ Beer's coding skills are a force to be reckoned with, building robust solutions 
 
 **[`Heng`](https://www.linkedin.com/in/ramil-arthan-397349170/) - The Software Engineer**
 
----
-
 Heng's expertise in software engineering brings our projects to life with precision.
 
 ---
@@ -110,8 +106,6 @@ Heng's expertise in software engineering brings our projects to life with precis
 >}}
 
 **[`Jay`](https://www.linkedin.com/in/thanapon-matikanon/) - The UX/UI Designer**
-
----
 
 Jay crafts stunning designs that create memorable user experiences.
 
