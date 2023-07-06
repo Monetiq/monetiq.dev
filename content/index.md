@@ -21,17 +21,29 @@ We are passionate individuals who have come together to pursue our side project 
 
 ## Meet the Team 🧑‍🤝‍🧑
 
-In the realm of technology, we thrive and deliver excellence at Monetiq. Allow us to introduce our talented crew:
+In the realm of technology, we thrive and deliver excellence at Monetiq.
 
-- **`Pete`** - The Visionary: As our product owner, Pete leads with a bright vision that propels us forward. [LinkedIn](https://www.linkedin.com/in/chanvit-s-292642198/)
+Allow us to introduce our talented crew:
 
-- **`Ben`** - The Data Specialist: With Ben's data prowess, we unlock insights and make data-driven decisions. [LinkedIn](https://www.linkedin.com/in/nopdanai-dejvorakul/)
+### **`Pete`** - The Visionary [LinkedIn](https://www.linkedin.com/in/chanvit-s-292642198/)
 
-- **`Beer`** - The Code Maestro: Beer's coding skills are a force to be reckoned with, building robust solutions with might. [LinkedIn](https://www.linkedin.com/in/borrabeer/)
+As our product owner, Pete leads with a bright vision that propels us forward. 
 
-- **`Heng`** - The Software Engineer: Heng's expertise in software engineering brings our projects to life with precision. [LinkedIn](https://www.linkedin.com/in/ramil-arthan-397349170/)
+### **`Ben`** - The Data Specialist [LinkedIn](https://www.linkedin.com/in/nopdanai-dejvorakul/)
 
-- **`Jay`** - The UX/UI Designer: Jay crafts stunning designs that create memorable user experiences. [LinkedIn](https://www.linkedin.com/in/thanapon-matikanon/)
+With Ben's data prowess, we unlock insights and make data-driven decisions. 
+
+### **`Beer`** - The Code Maestro [LinkedIn](https://www.linkedin.com/in/borrabeer/)
+
+Beer's coding skills are a force to be reckoned with, building robust solutions with might. 
+
+### **`Heng`** - The Software Engineer [LinkedIn](https://www.linkedin.com/in/ramil-arthan-397349170/)
+
+Heng's expertise in software engineering brings our projects to life with precision.
+
+### **`Jay`** - The UX/UI Designer [LinkedIn](https://www.linkedin.com/in/thanapon-matikanon/)
+
+Jay crafts stunning designs that create memorable user experiences.
 
 ---
 
@@ -39,11 +51,17 @@ In the realm of technology, we thrive and deliver excellence at Monetiq. Allow u
 
 At Monetiq, we offer a range of services to help you bring your vision to reality:
 
-- **`Project Development`:** Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
+### **`Project Development`:**
 
-- **`Product Planning`:** Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
+Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
 
-- **`Data Utilization`:** Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
+### **`Product Planning`:**
+
+Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
+
+### **`Data Utilization`:**
+
+Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
 
 ---
 
