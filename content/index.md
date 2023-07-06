@@ -2,34 +2,56 @@
 title = "We are Monetiq."
 +++
 
-In the realm of tech, we *thrive*, Monetiq, where geeks *arrive*.
+Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
 
-Peter leads with a vision *bright*, Ben's data prowess takes *flight*.
-
-Beer and Heng build code with *might*, Jay crafts beauty, a stunning *sight*. 🎶
+We are passionate individuals who have come together to pursue our side project alongside our full-time jobs.
 
 ---
 
-# The crew 🧑‍🤝‍🧑
+# Project road map
 
-`Pete` - The product owner [🔗](https://www.linkedin.com/in/chanvit-s-292642198/)
+## 12NY - The dating app
 
-`Ben` - The data specialist [🔗](https://www.linkedin.com/in/nopdanai-dejvorakul/)
-
-`Beer` - The software engineer [🔗](https://www.linkedin.com/in/borrabeer/)
-
-`Heng` - The software engineer [🔗](https://www.linkedin.com/in/ramil-arthan-397349170/)
-
-`Jay` - The UX/UI designer [🔗](https://www.linkedin.com/in/thanapon-matikanon/)
+- 2023-06 - Designing 1st phase (Anonymous matching, gift, and, chat system)
+- 2023-08 - Testing 1st phase & Media publishing
+- 2023-09 - Soft launch 🛩️
+- 2023-10 - Hard launch 🚀
 
 ---
 
-# Contact us
+## Meet the Team 🧑‍🤝‍🧑
 
-**Monetiq Company Limited**
+In the realm of technology, we thrive and deliver excellence at Monetiq. Allow us to introduce our talented crew:
 
-112/236 moo 8, Bang Keaw,
+- **Pete** - The Visionary: As our product owner, Pete leads with a bright vision that propels us forward. [LinkedIn](https://www.linkedin.com/in/chanvit-s-292642198/)
 
+- **Ben** - The Data Specialist: With Ben's data prowess, we unlock insights and make data-driven decisions. [LinkedIn](https://www.linkedin.com/in/nopdanai-dejvorakul/)
+
+- **Beer** - The Code Maestro: Beer's coding skills are a force to be reckoned with, building robust solutions with might. [LinkedIn](https://www.linkedin.com/in/borrabeer/)
+
+- **Heng** - The Software Engineer: Heng's expertise in software engineering brings our projects to life with precision. [LinkedIn](https://www.linkedin.com/in/ramil-arthan-397349170/)
+
+- **Jay** - The UX/UI Designer: Jay crafts stunning designs that create memorable user experiences. [LinkedIn](https://www.linkedin.com/in/thanapon-matikanon/)
+
+---
+
+## Services We Offer
+
+At Monetiq, we offer a range of services to help you bring your vision to reality:
+
+- **Project Development:** Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
+
+- **Product Planning:** Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
+
+- **Data Utilization:** Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
+
+---
+
+## Contact Us
+
+### Monetiq Company Limited
+
+112/236 Moo 8, Bang Keaw,
 Bang Phli, Samut Prakan, 10540
 
 Tax ID: 0115566011291
