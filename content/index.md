@@ -32,9 +32,7 @@ Jay crafts beauty, a stunning *sight*. 🎶
 
 # Contact us
 
-📧 : [contact@monetiq.dev](contact@monetiq.dev)
-
-{{<a href="mailto:contact@monetiq.dev">}}hihi{{</a>}}
+📧 : [contact@monetiq.dev](mailto:contact@monetiq.dev)
 
 ---
 
