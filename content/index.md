@@ -49,7 +49,7 @@ Allow us to introduce our talented crew:
     height="100px"
 >}}
 
-[**`Pete`**](https://www.linkedin.com/in/chanvit-s-292642198/) - The Visionary
+**[`Pete`](https://www.linkedin.com/in/chanvit-s-292642198/) - The Visionary**
 
 As our product owner, Pete leads with a bright vision that propels us forward. 
 
@@ -59,7 +59,7 @@ As our product owner, Pete leads with a bright vision that propels us forward.
     height="100px"
 >}}
 
-[**`Ben`**](https://www.linkedin.com/in/nopdanai-dejvorakul/) - The Data Specialist
+**[`Ben`](https://www.linkedin.com/in/nopdanai-dejvorakul/) - The Data Specialist**
 
 With Ben's data prowess, we unlock insights and make data-driven decisions. 
 
@@ -69,7 +69,7 @@ With Ben's data prowess, we unlock insights and make data-driven decisions.
     height="100px"
 >}}
 
-[**`Beer`**](https://www.linkedin.com/in/borrabeer/) - The Code Maestro
+**[`Beer`](https://www.linkedin.com/in/borrabeer/) - The Code Maestro**
 
 Beer's coding skills are a force to be reckoned with, building robust solutions with might. 
 
@@ -79,7 +79,7 @@ Beer's coding skills are a force to be reckoned with, building robust solutions 
     height="100px"
 >}}
 
-[**`Heng`**](https://www.linkedin.com/in/ramil-arthan-397349170/) - The Software Engineer
+**[`Heng`](https://www.linkedin.com/in/ramil-arthan-397349170/) - The Software Engineer**
 
 Heng's expertise in software engineering brings our projects to life with precision.
 
@@ -89,7 +89,7 @@ Heng's expertise in software engineering brings our projects to life with precis
     height="100px"
 >}}
 
-[**`Jay`**](https://www.linkedin.com/in/thanapon-matikanon/) - The UX/UI Designer
+**[`Jay`](https://www.linkedin.com/in/thanapon-matikanon/) - The UX/UI Designer**
 
 Jay crafts stunning designs that create memorable user experiences.
 
