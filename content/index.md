@@ -8,6 +8,7 @@ We are passionate individuals who have come together to pursue our side project 
 .
  
 . 
+
 ---
 
 # Project and road map
@@ -19,8 +20,10 @@ We are passionate individuals who have come together to pursue our side project 
 - 2023-09 - Soft launch 🛩️
 - 2023-10 - Hard launch 🚀
  
- 
- 
+.
+
+.
+
 ---
 
 ## Services We Offer
@@ -38,9 +41,11 @@ Consult with us to develop strategic plans for your products. Our expertise in p
 **`Data Utilization`**
 
 Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
- 
- 
- 
+
+.
+
+.
+
 ---
 
 ## Meet the Team 🧑‍🤝‍🧑
@@ -110,10 +115,11 @@ Heng's expertise in software engineering brings our projects to life with precis
 Jay crafts stunning designs that create memorable user experiences.
 
 ---
- 
- 
- 
- 
+
+.
+
+.
+
 ---
 
 ## Contact Us
