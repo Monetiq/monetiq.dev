@@ -2,12 +2,10 @@
 title = "We are Monetiq."
 +++
 
-Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
-We are passionate individuals who have come together to pursue our side project alongside our full-time jobs.
-
-.
- 
-. 
+> Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
+> We are passionate individuals who have come together to pursue our side project alongside our full-time jobs.
+>
+> 
 
 ---
 
@@ -19,10 +17,6 @@ We are passionate individuals who have come together to pursue our side project 
 - 2023-08 - Testing 1st phase & Media publishing
 - 2023-09 - Soft launch 🛩️
 - 2023-10 - Hard launch 🚀
- 
-.
-
-.
 
 ---
 
@@ -32,15 +26,15 @@ At Monetiq, we offer a range of services to help you bring your vision to realit
 
 **`Project Development`**
 
-Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
+> Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
 
 **`Product Planning`**
 
-Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
+> Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
 
 **`Data Utilization`**
 
-Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
+> Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
 
 .
 
@@ -64,7 +58,7 @@ Allow us to introduce our talented crew:
 
 **[`Pete`](https://www.linkedin.com/in/chanvit-s-292642198/) - The Visionary**
 
-As our product owner, Pete leads with a bright vision that propels us forward.
+> As our product owner, Pete leads with a bright vision that propels us forward.
 
 ---
 
@@ -76,7 +70,7 @@ As our product owner, Pete leads with a bright vision that propels us forward.
 
 **[`Ben`](https://www.linkedin.com/in/nopdanai-dejvorakul/) - The Data Specialist**
 
-With Ben's data prowess, we unlock insights and make data-driven decisions.
+> With Ben's data prowess, we unlock insights and make data-driven decisions.
 
 ---
 
@@ -88,7 +82,7 @@ With Ben's data prowess, we unlock insights and make data-driven decisions.
 
 **[`Beer`](https://www.linkedin.com/in/borrabeer/) - The Code Maestro**
 
-Beer's coding skills are a force to be reckoned with, building robust solutions with might.
+> Beer's coding skills are a force to be reckoned with, building robust solutions with might.
 
 ---
 
@@ -100,7 +94,7 @@ Beer's coding skills are a force to be reckoned with, building robust solutions 
 
 **[`Heng`](https://www.linkedin.com/in/ramil-arthan-397349170/) - The Software Engineer**
 
-Heng's expertise in software engineering brings our projects to life with precision.
+> Heng's expertise in software engineering brings our projects to life with precision.
 
 ---
 
@@ -112,7 +106,7 @@ Heng's expertise in software engineering brings our projects to life with precis
 
 **[`Jay`](https://www.linkedin.com/in/thanapon-matikanon/) - The UX/UI Designer**
 
-Jay crafts stunning designs that create memorable user experiences.
+> Jay crafts stunning designs that create memorable user experiences.
 
 ---
 
