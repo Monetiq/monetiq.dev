@@ -53,6 +53,12 @@ Allow us to introduce our talented crew:
 
 As our product owner, Pete leads with a bright vision that propels us forward. 
 
+{{<
+    image
+    src="https://media.licdn.com/dms/image/D4E03AQE4TQZOW0adGA/profile-displayphoto-shrink_200_200/0/1685604339102?e=1694044800&v=beta&t=R5fHztiIYOvQUDOOrgZNRC1G09zNP2mksg-HHYTZkLE"
+    height="100px"
+>}}
+
 [**`Ben`**](https://www.linkedin.com/in/nopdanai-dejvorakul/) - The Data Specialist
 
 With Ben's data prowess, we unlock insights and make data-driven decisions. 
