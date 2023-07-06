@@ -8,7 +8,7 @@ We are passionate individuals who have come together to pursue our side project 
 
 ---
 
-# Project road map
+# Project and road map
 
 `12NY` - The dating app
 
@@ -19,11 +19,31 @@ We are passionate individuals who have come together to pursue our side project 
 
 ---
 
+## Services We Offer
+
+At Monetiq, we offer a range of services to help you bring your vision to reality:
+
+**`Project Development`**
+
+Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
+
+**`Product Planning`**
+
+Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
+
+**`Data Utilization`**
+
+Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
+
+---
+
 ## Meet the Team 🧑‍🤝‍🧑
 
 In the realm of technology, we thrive and deliver excellence at Monetiq.
 
 Allow us to introduce our talented crew:
+
+{{<img src="https://media.licdn.com/dms/image/C5603AQHHmdd_yW6_pQ/profile-displayphoto-shrink_200_200/0/1592533687376?e=1694044800&v=beta&t=m7qBvBmh9Ggxu4P2JMIPVxqIkkcdghk6h1LuTvRv-ao" height="100px">}}
 
 [**`Pete`**](https://www.linkedin.com/in/chanvit-s-292642198/) - The Visionary
 
@@ -44,24 +64,6 @@ Heng's expertise in software engineering brings our projects to life with precis
 [**`Jay`**](https://www.linkedin.com/in/thanapon-matikanon/) - The UX/UI Designer
 
 Jay crafts stunning designs that create memorable user experiences.
-
----
-
-## Services We Offer
-
-At Monetiq, we offer a range of services to help you bring your vision to reality:
-
-**`Project Development`**
-
-Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
-
-**`Product Planning`**
-
-Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
-
-**`Data Utilization`**
-
-Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
 
 ---
 
