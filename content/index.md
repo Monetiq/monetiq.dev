@@ -10,7 +10,7 @@ We are passionate individuals who have come together to pursue our side project 
 
 # Project road map
 
-## 12NY - The dating app
+## `12NY - The dating app`
 
 - 2023-06 - Designing 1st phase (Anonymous matching, gift, and, chat system)
 - 2023-08 - Testing 1st phase & Media publishing
@@ -23,15 +23,15 @@ We are passionate individuals who have come together to pursue our side project 
 
 In the realm of technology, we thrive and deliver excellence at Monetiq. Allow us to introduce our talented crew:
 
-- **Pete** - The Visionary: As our product owner, Pete leads with a bright vision that propels us forward. [LinkedIn](https://www.linkedin.com/in/chanvit-s-292642198/)
+- **`Pete`** - The Visionary: As our product owner, Pete leads with a bright vision that propels us forward. [LinkedIn](https://www.linkedin.com/in/chanvit-s-292642198/)
 
-- **Ben** - The Data Specialist: With Ben's data prowess, we unlock insights and make data-driven decisions. [LinkedIn](https://www.linkedin.com/in/nopdanai-dejvorakul/)
+- **`Ben`** - The Data Specialist: With Ben's data prowess, we unlock insights and make data-driven decisions. [LinkedIn](https://www.linkedin.com/in/nopdanai-dejvorakul/)
 
-- **Beer** - The Code Maestro: Beer's coding skills are a force to be reckoned with, building robust solutions with might. [LinkedIn](https://www.linkedin.com/in/borrabeer/)
+- **`Beer`** - The Code Maestro: Beer's coding skills are a force to be reckoned with, building robust solutions with might. [LinkedIn](https://www.linkedin.com/in/borrabeer/)
 
-- **Heng** - The Software Engineer: Heng's expertise in software engineering brings our projects to life with precision. [LinkedIn](https://www.linkedin.com/in/ramil-arthan-397349170/)
+- **`Heng`** - The Software Engineer: Heng's expertise in software engineering brings our projects to life with precision. [LinkedIn](https://www.linkedin.com/in/ramil-arthan-397349170/)
 
-- **Jay** - The UX/UI Designer: Jay crafts stunning designs that create memorable user experiences. [LinkedIn](https://www.linkedin.com/in/thanapon-matikanon/)
+- **`Jay`** - The UX/UI Designer: Jay crafts stunning designs that create memorable user experiences. [LinkedIn](https://www.linkedin.com/in/thanapon-matikanon/)
 
 ---
 
@@ -39,11 +39,11 @@ In the realm of technology, we thrive and deliver excellence at Monetiq. Allow u
 
 At Monetiq, we offer a range of services to help you bring your vision to reality:
 
-- **Project Development:** Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
+- **`Project Development`:** Hire our experienced team to build custom projects tailored to your needs. From concept to completion, we deliver high-quality solutions that exceed expectations.
 
-- **Product Planning:** Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
+- **`Product Planning`:** Consult with us to develop strategic plans for your products. Our expertise in product management and planning can help you define roadmaps and prioritize features.
 
-- **Data Utilization:** Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
+- **`Data Utilization`:** Leverage our data specialists to harness the power of your data. We offer insights and recommendations for utilizing data effectively to drive informed decision-making.
 
 ---
 
