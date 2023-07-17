@@ -1,6 +1,5 @@
 ---
 title: "User Account and Information Deletion Request Instructions"
-date: "2022-07-17"
 color: "blue"
 draft: false
 ---
