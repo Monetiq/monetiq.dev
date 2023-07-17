@@ -1,5 +1,6 @@
 ---
 title: "We are Monetiq."
+draft: false
 ---
 
 Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
