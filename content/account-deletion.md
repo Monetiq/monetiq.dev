@@ -1,7 +1,9 @@
-+++
-title = "User Account and Information Deletion Request Instructions"
-data = "2023-07-17"
-+++
+---
+title: "User Account and Information Deletion Request Instructions"
+date: "2022-07-17"
+color: "blue"
+draft: false
+---
 
 We understand that you may want to delete your account and associated personal information from our dating app. Please follow the instructions below to initiate the deletion process:
 

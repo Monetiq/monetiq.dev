@@ -1,6 +1,6 @@
-+++
-title = "We are Monetiq."
-+++
+---
+title: "We are Monetiq."
+---
 
 Welcome to Monetiq, where our small team of dedicated professionals brings dreams to life.
 We are passionate individuals who have come together to pursue our side project alongside our full-time jobs.

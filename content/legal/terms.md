@@ -1,7 +1,8 @@
-+++
-title = "Terms of service."
-date = "2023-07-17"
-+++
+---
+title: "Terms of service."
+date: "2022-07-17"
+color: "blue"
+---
 
 These Terms of Service ("Terms") govern your access to and use of 12NY ("App"), provided by Monetiq Company Limited ("we," "us," or "our"). By accessing or using our App, you agree to be bound by these Terms. If you do not agree with these Terms, please refrain from using our App.
 

@@ -1,7 +1,8 @@
-+++
-title = "12NY - Privacy policy."
-date = "2023-07-17"
-+++
+---
+title: "12NY - Privacy policy."
+date: "2022-07-17"
+color: "blue"
+---
 
 This User Privacy Policy ("Policy") explains how 12NY ("we," "us," or "our") collects, uses, shares, and protects the personal information of users ("you" or "your") who use our dating application ("App"). Your privacy and security are of utmost importance to us, and we are committed to protecting your personal information in accordance with applicable privacy laws. By accessing or using our App, you consent to the practices described in this Policy.
 
