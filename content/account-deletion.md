@@ -1,6 +1,6 @@
 ---
 title: "Account Deletion"
-color: "blue"
+color: "red"
 date: 2023-07-17T23:44:51+07:00
 draft: false
 ---

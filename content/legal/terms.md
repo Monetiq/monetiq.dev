@@ -1,5 +1,5 @@
 ---
-title: "Terms"
+title: "Terms of service"
 color: "blue"
 date: 2023-07-17T23:45:39+07:00
 draft: false
